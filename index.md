@@ -1,4 +1,4 @@
-# Peter's Brief Bio
+## Peter's Brief Bio
 Life rarely follows a straight line doesn't it?
 Mine certainly hasn't. 
 Starting off as a physicist in research (particle and medical physics) I quickly realised 
