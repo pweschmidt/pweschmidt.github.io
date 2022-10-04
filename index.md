@@ -23,6 +23,7 @@ produce more of it in future.
 ## Curriculum Vitae - Lebenslauf - Resume
 
 - [English Version](CV_EN.pdf)
+- [Version Française](CV_FR.pdf)
 
 The journey never ends and I am currently looking for other (part-time/temporary) opportunities.
 After 25 years in the UK, and having both German and British citizenship, I am considering to relocate 
