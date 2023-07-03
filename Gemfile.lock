@@ -78,7 +78,9 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  jekyll (~> 4.2)
   type-on-strap!
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.3.26
