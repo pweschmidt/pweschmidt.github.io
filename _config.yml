@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://pweschmidt.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Podcasting for Science  
+title: Podcasting for Research, Science and Software  
 description: "Code for Thought, Podcast, Research Software Engineering, RSE"      # used by search engines
 avatar: assets/img/CfT_400px_v5-256x256.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
