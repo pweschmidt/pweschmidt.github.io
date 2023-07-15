@@ -2,4 +2,6 @@
 .bundle/*
 vendor/*
 _site/feed.xml
+.jekyll-cache/*
+
 
