@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/webheader-broad.png
 excerpt: Podcasting for Research, Science and Software Engineering
 author_profile: false
-title: "About Peter"
+title: "Who is Peter?"
 ---
 
 
