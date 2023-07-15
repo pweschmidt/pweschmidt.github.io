@@ -1,6 +1,6 @@
-source "https://rubygems.org"
-gemspec
+source 'https://rubygems.org'
 
-gem "webrick", "~> 1.8"
-
-gem "jekyll", "~> 4.2"
+gem "jekyll", "~> 4.2.1"
+gem "minimal-mistakes-jekyll"
+gem "kramdown-parser-gfm"
+gem "webrick"
