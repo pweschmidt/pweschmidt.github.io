@@ -8,12 +8,19 @@ author_profile: false
 title: "Contact"
 ---
 
-Want to find out more how podcasting can boost your public engagement for your research projects?
-Or you want to see how podcasting can help with your teaching efforts?
-Get in touch to find out more! 
-{: .notice}
 
-[Email me](mailto:code4thought@proton.me){: .btn .btn--primary}
+
+| Email | [mailto:code4thought@proton.me](mailto:code4thought@proton.me){: .btn .btn--primary} |
+| | |
+| Patreon | [https://www.patreon.com/codeforthought] |
+| LinkedIn | [https://www.linkedin.com/in/pweschmidt/] |
+| Mastodon | @code4thought@fosstodon.org | 
+| Twitter | [https://twitter.com/code_4_thought]  | 
+| Instagram | [https://www.instagram.com/code_4_thought/] |
+| | |
+| GitHub and GitLab | @pweschmidt | 
+| Code for Thought host | [https://codeforthought.buzzsprout.com] |
+| YouTube channel | [https://www.youtube.com/@code4thought] |
 
 
 
