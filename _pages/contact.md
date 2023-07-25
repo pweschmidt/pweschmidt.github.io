@@ -10,17 +10,17 @@ title: "Contact"
 
 
 
-| Email | [mailto:code4thought@proton.me](mailto:code4thought@proton.me){: .btn .btn--primary} |
+| Email | [code4thought@proton.me](mailto:code4thought@proton.me){: .btn .btn--primary} |
 | | |
-| Patreon | [https://www.patreon.com/codeforthought] |
-| LinkedIn | [https://www.linkedin.com/in/pweschmidt/] |
+| Patreon | [codeforthought](https://www.patreon.com/codeforthought) |
+| LinkedIn | [pweschmidt](https://www.linkedin.com/in/pweschmidt/) |
 | Mastodon | @code4thought@fosstodon.org | 
-| Twitter | [https://twitter.com/code_4_thought]  | 
-| Instagram | [https://www.instagram.com/code_4_thought/] |
+| Twitter | [@code_4_thought](https://twitter.com/code_4_thought)  | 
+| Instagram | [@code_4_thought](https://www.instagram.com/code_4_thought/) |
 | | |
 | GitHub and GitLab | @pweschmidt | 
-| Code for Thought host | [https://codeforthought.buzzsprout.com] |
-| YouTube channel | [https://www.youtube.com/@code4thought] |
+| Code for Thought host | [Code for Thought Host](https://codeforthought.buzzsprout.com) |
+| YouTube channel | [@code4thought](https://www.youtube.com/@code4thought) |
 
 
 
