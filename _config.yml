@@ -24,7 +24,7 @@ name                     : "Peter WE Schmidt"
 description              : "Podcaster, Researcher and Software Engineer"
 url                      : "https://pweschmidt.github.io"
 baseurl                  : ""
-repository               : pweschmidt
+repository               : #pweschmidt
 teaser                   : "/assets/images/webheader-broad.png"
 logo                     : "/assets/images/PWES-logo.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -73,9 +73,6 @@ author:
   location         : "London, UK"
   email            : "code4thought@proton.me"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:code4thought@proton.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://pweschmidt.github.io"
@@ -95,9 +92,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pweschmidt/pweschmidt.github.io"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: https://gitlab.com/pweschmidt
 
 # Reading Files
 include:
@@ -251,12 +245,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      toc: true
   # offerings
   - scope:
       path: ""
       type: offerings
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
+      toc: true
 

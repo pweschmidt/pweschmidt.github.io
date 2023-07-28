@@ -1,14 +1,9 @@
 ---
+title: "Curriculum Vitae"
+excerpt: "Peter Schmidt's CV"
 permalink: /cv/
-layout: splash
-toc: true
-toc_label: "Peter's CV"
-toc_sticky: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/webheader-broad.png
-author_profile: true
-title: "CV"
+  teaser: assets/images/CfT_400px_v5-256x256.png
 ---
 
 # Experience
