@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Peter Schmidt"
+title                    : "Podcasting for Research and Engineering"
 title_separator          : "-"
-subtitle                 : "Podcaster, Researcher and Software Engineer"
+subtitle                 : ""
 name                     : "Peter WE Schmidt"
 description              : "Podcaster, Researcher and Software Engineer"
 url                      : "https://pweschmidt.github.io"
 baseurl                  : ""
 repository               : #pweschmidt
-teaser                   : "/assets/images/webheader-broad.png"
-logo                     : "/assets/images/PWES-logo.jpeg"
+teaser                   : "/assets/images/montreal.JPG"
+logo                     : "/assets/images/CfT_Logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -73,15 +73,19 @@ author:
   location         : "London, UK"
   email            : "code4thought@proton.me"
   links:
-    - label: "Website"
+    - label: "Code for Thought"
       icon: "fas fa-fw fa-link"
-      url: "https://pweschmidt.github.io"
-    - label: "Twitter"
+      url: "https://codeforthought.buzzsprout.com"
+    - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/code_4_thought"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pweschmidt"
+    - label: "Patreon"
+      url: "https://www.patreon.com/codeforthought"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/company/codeforthought"
 
 # Site Footer
 footer:
@@ -246,7 +250,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      toc: true
+      toc: false
   # offerings
   - scope:
       path: ""
@@ -255,5 +259,5 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      toc: true
+      toc: false
 

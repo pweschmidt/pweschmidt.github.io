@@ -1,31 +1,33 @@
 ---
-layout: splash
+layout: single
 permalink: /
 hidden: true
+title: "Peter Schmidt"
+subtitle: ""
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/webheader-broad.png"
-excerpt: Podcasting for Research and Software Engineering
+  overlay_image: "/assets/images/montreal.JPG"
+excerpt: ""
 feature_row:
   - image_path: /assets/images/CfT_400px_v5-256x256.png
     alt: "Code4Thought"
-    title: "RSE Community Podcast"
-    excerpt: "Podcast for ever growing number of researchers and scientists who code. 
+    title: "Code for Thought"
+    excerpt: "Community podcast for researchers and scientists who code. 
     <br/>Since January 2021"
     url: "/offerings/CodeForThought"
     btn_class: "btn--primary"
     btn_label: "More"
   - image_path: /assets/images/skill-sharing.jpg
     alt: "Training"
-    title: "Podcast and Teaching"
-    excerpt: "Examples of podcasts used in training."
+    title: "Podcast in Education"
+    excerpt: "Podcasting for training courses and classes."
     url: "/offerings/TrainingMaterial"
     btn_class: "btn--primary"
     btn_label: "More"
   - image_path: /assets/images/outreach.png
     alt: "Outreach"
-    title: "Podcast for Science Outreach"
-    excerpt: ""
+    title: "Public Engagement for Research"
+    excerpt: "Podcasting for research and science outreach programmes."
     url: "/offerings/PublicEngagement"
     btn_class: "btn--primary"
     btn_label: "More"

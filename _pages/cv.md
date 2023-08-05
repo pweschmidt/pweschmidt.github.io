@@ -1,98 +1,38 @@
 ---
-title: "Curriculum Vitae"
-excerpt: "Peter Schmidt's CV"
+layout: single
+title: "Short C.V."
+excerpt: ""
 permalink: /cv/
 header:
-  teaser: assets/images/CfT_400px_v5-256x256.png
+  overlay_color: "#5e616c"
+  overlay_image: "/assets/images/nuernberg.JPG"
+  teaser: assets/images/nuernberg.JPG
 ---
 
-# Experience
+## Short Bio
+I was born in Nuremberg, Germany (Bavaria). In 1986 I moved to Hamburg, where I completed my physics degree first with a Diploma in 1990 and then with a Ph.D. in experimental particle physics in 1996, both from the University of Hamburg.
 
-## Podcast Producer and Host since Jan/2021
-- Creator and host for Code for Thought, the community podcast for Research Software Engineers.
-- Collaboration with Humboldt-Alexander University of Berlin, Germany to produce outreach podcasts.
-- Producer of the ByteSized RSE mini series (part of Code for Thought) in collaboration with the Universe HPC project.
+After a year working as a post-doc at the University of Hamburg on the Crystal Barrel experiment at CERN, I applied successfully for a research fellowship in medical physics/imaging at the Royal Brompton Hospital in London, UK. 
 
-## Senior Research Software Engineer, UCL, Dec/2019 - Jun/2023
-Employer: University College London
-Sector: Higher Education
-Location: London, UK
-- Deliver sustainable software solutions for research projects.
-- Lead and mentor small team of engineers.
-- Provide technical guidance and architecture.
+I have been living in London since then (1997).
 
-## Software Architect and Mobile Lead, Elsevier, Jun/2013 - Nov/2019
-Employer: Elsevier Ltd. UK
-Sector: Scientific publishing
-Location: London, UK
-- Optimised search solutions for digital products (ElasticSearch) and cloud solutions (AWS).
-- Lead a team of iOS and Android engineers to deliver and maintain the Mendeley mobile app. 
-- Lead cross-organisational working groups on digital search and mobile technologies.
+## Short CV
+- **Since January 2021**: Creator and Host for Code for Thought, the RSE community podcast
+- **Dec 2019 - Jun 2023**: Senior Research Software Engineer at the University College London, UK
+- **Jun 2013 - Nov 2019**: Software Architect and Mobile Lead, Elsevier, London, UK
+- **Jun 2012 - May 2013**: Senior iOS Engineer, Alfresco Ltd, Maidenhead, UK
+- **Jul 2007 - May 2012**: Engineering/Operations Manager, Symbia (Nokia), London, UK
+- **Jan 2005 - Jun 2007**: Senior C++ Engineer, Project Lead, Sibelius Music Software (Avid), London, UK
+- **Dec 2000 - Dec 2004**: Senior Software Engineer and Team Lead, Sony Broadcasting and Professional, Basingstoke, UK
+- **May 1997 - Nov 2000**: Research Fellow Medical Imaging/Physics, Royal Brompton Hospital, London, UK
+- **Feb 1992 - Apr 1997**: Research Fellow (before that PhD student) Particle Physics, University Hamburg, Germany
 
-## iOS Engineer, Alfresco, Jun/2012 - May/2013
-Employer: Alfresco Ltd, UK
-Sector: Business applications
-Location: Maidenhead, UK
-- Develop, maintain and deliver the Alfresco iOS app
-- Contribute to the Apache open source OpenCMIS project
+## Education
+- **Aug 1996**: Ph.D. (first) in experimental particle physics, University Hamburg, Germany
+- **Oct 2005**: B.Sc. (2.2) Molecular Biology, Birkbeck College, London
 
-## Engineering Manager, Symbian/Nokia, Jul/2007 - May/2012
-Employer: Symbian(Nokia)
-Sector: Telecoms
-Location: London, UK
-- Lead large inhouse engineering as well as offshore contracting teams.
-- Operations and stakeholder management for Symbian OS components.
-- Change management: part of the team to transform Symbian/Nokia into an agile business using the Scaled Agile Framework.
+## Languages
+- **German**: Native
+- **English**: Proficient
+- **French**: Intermediate (DELF B2)
 
-## Project Manager, C++ Engineer, Sibelius/Avid, Jan/2005 - Jun/2007
-Employer: Sibelius Ltd (later Avid)
-Sector: Music and Technology
-Location: London, UK
-- Develop and deliver C++ based Web-based app Scorch.
-- Project manage the foreign language versions of the Sibelius music app.
-- Lead a small team of C++ engineers.
-
-## Senior Software Engineer, Team Lead, Sony, Dec/2000 - Dec/2004
-Employer: Sony Broadcasting and Professional Europe
-Sector: Broadcasting Technologies
-Location: Basingstoke, UK
-- Responsible for delivering innovative R&D digital media solutions based on C++/Java and XML/XSLT.
-- Contribute to the MXF (Material eXchange Format) standard in IEEE workgroups.
-- Lead a small team of engineers.
-
-## Research Fellow Medical Imaging, NHS, May/1997 - Nov/2000
-Employer: Royal Brompton Hospital and British Heart Foundation
-Sector: Health
-Location: London, UK
-- Develop and deliver medical image solutions  Java/C++ for medical research.
-- Develop a cross-platform tool to visuale cardiac image sequences.
-- Study the impact of X-radiation during paediatric cardiac procedures and publish results in journals and conferences.
-
-## Ph.D. Student and Research Fellow, Uni. Hamburg, Feb/1992 - Apr/1997
-Employer: University of Hamburg
-Sector: Higher Education
-Location: Hamburg, Germany
-- Research on experimental particle physics at the Crystal Barrel project based at CERN, Geneva/Switzerland.
-- Tutor undergraduate students in physics.
-- Develop and maintain complex software packages in Fortran 77 and C++.
-
-# Education
-
-## University of Hamburg, Aug/1996
-Degree: Ph.D. (first)
-Field: Experimental Particle Physics
-
-## Birkbeck College, Oct/2005
-Degree: B.Sc. (2.2)
-Field: Molecular Biology
-
-# Skills
-## Technical (latest used first)
-- Python, Javascript
-- Java
-- C++
-
-## Personal
-- Communication and outreach
-- Team lead
-- Media: podcast
