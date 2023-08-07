@@ -1,6 +1,6 @@
 ---
-title: "Public Engagement"
-excerpt: "How Podcasts can help with your research project engagement"
+title: "Podcast for research"
+excerpt: "Podcasting for research and science outreach programmes"
 header:
   teaser: assets/images/CfT_400px_v5-256x256.png
 sidebar:

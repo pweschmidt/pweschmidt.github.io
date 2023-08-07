@@ -1,6 +1,4 @@
 # main links
 main:
-  - title: "Contact"
-    url: /contact/
-  - title: "C.V."
+  - title: "Short CV"
     url: /cv/

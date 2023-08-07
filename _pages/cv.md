@@ -5,7 +5,7 @@ excerpt: ""
 permalink: /cv/
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/nuernberg.JPG"
+  overlay_image: "/assets/images/nuremberg-header.png"
   teaser: assets/images/nuernberg.JPG
 ---
 
@@ -17,6 +17,7 @@ After a year working as a post-doc at the University of Hamburg on the Crystal B
 I have been living in London since then (1997).
 
 ## Short CV
+- **Since January 2022**: Fellow of the [Software Sustainability Institute](https://www.software.ac.uk)
 - **Since January 2021**: Creator and Host for Code for Thought, the RSE community podcast
 - **Dec 2019 - Jun 2023**: Senior Research Software Engineer at the University College London, UK
 - **Jun 2013 - Nov 2019**: Software Architect and Mobile Lead, Elsevier, London, UK
