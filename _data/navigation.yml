@@ -4,5 +4,7 @@ main:
     url: /portfolio/
   - title: "Questions"
     url: /questions/
+  - title: "Pricing"
+    url: /pricing/
   - title: "Short CV"
     url: /cv/
