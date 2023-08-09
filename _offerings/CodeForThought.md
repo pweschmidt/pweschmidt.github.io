@@ -9,15 +9,23 @@ header:
 
 Together with the [Software Sustainability Institute](https://www.software.ac.uk) and the [Society for Research Software Engineering](https://society-rse.org) in the UK, I launched the **Code for Thought** podcast to support and promote the growing community of research software engineers.
 
-The show was launched with the first episode on 19 January 2021 **And so it begins...** and new episodes have been published regularly since then.
+- Running since **January 2021**
+- Regular episodes on Tuesdays (except during summer and end of year holidays)
+- German language version since **March 2023**, on last Tuesday of each month (except August)
+- Hosted on:
+  - [Buzzsprout](https://codeforthought.buzzsprout.com)
+  - ![YouTube](/assets/images/youtube-icon@2x.png) channel **@code4thought**
+- Available in the following podcast directories:
+  - ![Apple](/assets/images/applepodcasts-icon.png) Apple
+  - ![Spotify](/assets/images/spotify-icon.png) Spotify
+  - ![Google Podcast](/assets/images/googlepodcasts-icon.png) Google Podcast
+  - ![Amazon Music](/assets/images/amazonmusic-icon.png) Amazon Music
+  - ![Podcast Addict](/assets/images/podcastaddict-icon.png) Podcast Addict
+  - ![Deezer](/assets/images/deezer-icon.png) Deezer
+  - ![Castro](/assets/images/castro-icon.png) Castro
+  - ![Castbox](/assets/images/castbox-icon.png) Castbox
+  - ![Overcast](/assets/images/overcast-icon.png) Overcast
+  - and others...
 
-In March 2023, I launched a German language version of the podcast, with a report on the RSE Conference 2023 in Paderborn, Germany.
-
-The podcast is available on most popular podcast directories including: Apple, Spotify, Google Podcasts, Podcast Index, Amazon Music, and others.
-
-Since March 2023, the podcast is also available on YouTube (audio only):
-
-- Podcast Host: https://codeforthought.buzzsprout.com
-- YouTube Channel: https://www.youtube.com/@code4thought
 
 

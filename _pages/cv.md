@@ -10,11 +10,9 @@ header:
 ---
 
 ## Short Bio
-I was born in Nuremberg, Germany (Bavaria). In 1986 I moved to Hamburg, where I completed my physics degree first with a Diploma in 1990 and then with a Ph.D. in experimental particle physics in 1996, both from the University of Hamburg.
-
-After a year working as a post-doc at the University of Hamburg on the Crystal Barrel experiment at CERN, I applied successfully for a research fellowship in medical physics/imaging at the Royal Brompton Hospital in London, UK. 
-
-I have been living in London since then (1997).
+- **Since 1997**: living in London, UK
+- **1986 - 1997**: living in Hamburg, Germany
+- **1962**: born in Nuremberg, Germany
 
 ## Short CV
 - **Since January 2022**: Fellow of the [Software Sustainability Institute](https://www.software.ac.uk)
@@ -33,7 +31,11 @@ I have been living in London since then (1997).
 - **Oct 2005**: B.Sc. (2.2) Molecular Biology, Birkbeck College, London
 
 ## Languages
-- **German**: Native
 - **English**: Proficient
 - **French**: Intermediate (DELF B2)
+- **German**: Native
+
+## Downloadable CVs
+- [English PDF](https://pweschmidt.github.io/CV_EN.pdf)
+- [French PDF](https://pweschmidt.github.io/CV_FR.pdf)
 
