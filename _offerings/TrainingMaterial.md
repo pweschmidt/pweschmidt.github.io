@@ -1,6 +1,6 @@
 ---
-title: "Training Material"
-excerpt: "How Podcasts can help in your training classes"
+title: "Podcast for Education"
+excerpt: "Add podcasts as material to your classes and courses"
 header:
   teaser: assets/images/CfT_400px_v5-256x256.png
 sidebar:
