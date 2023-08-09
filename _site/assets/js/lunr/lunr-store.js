@@ -1,6 +1,6 @@
 var store = [{
         "title": "Code for Thought",
-        "excerpt":"Together with the Software Sustainability Institute and the Society for Research Software Engineering in the UK, I launched the Code for Thought podcast to support and promote the growing community of research software engineers. The show was launched with the first episode on 19 January 2021 And so it begins…...","categories": [],
+        "excerpt":"Together with the Software Sustainability Institute and the Society for Research Software Engineering in the UK, I launched the Code for Thought podcast to support and promote the growing community of research software engineers. Running since January 2021 Regular episodes on Tuesdays (except during summer and end of year holidays)...","categories": [],
         "tags": [],
         "url": "/offerings/CodeForThought/",
         "teaser": "/assets/images/paris-header.png"
