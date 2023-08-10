@@ -11,7 +11,7 @@ header:
 
 Here is a list of podcasts (in reverse time order)
 
-- ![RegisterGeknister](/assets/images/RegisterGeknister.png) - **in German** - A podcasts from linguists of the special research area [1412](https://sfb1412.hu-berlin.de/de/) at the Humboldt-Universität in Berlin, Germany. 
+- ![RegisterGeknister](/assets/images/RegisterGeknister.png) - **in German** - The [podcast](https://registergeknister.buzzsprout.com) from linguists of the special research area [1412](https://sfb1412.hu-berlin.de/de/) at the Humboldt-Universität in Berlin, Germany. 
   
 - ![ByteSizedRSE](/assets/images/universe-hpc.png) - **in English** - ByteSized RSE is a set of short training sessions run by the [Universe HPC](http://www.universe-hpc.ac.uk/events/byte-sized-rse/) program. Each training session has an associated podcast episode. The episodes are published as part of the Code for Thought show.
 
