@@ -3,5 +3,6 @@
 vendor/*
 _site/feed.xml
 .jekyll-cache/*
+_site/**
 
 
