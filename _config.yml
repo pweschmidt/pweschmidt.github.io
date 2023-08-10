@@ -102,20 +102,7 @@ author:
       url: "https://fosstodon.org/@code4thought"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/code_4_thought"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/codeforthought"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://fosstodon.org/@code4thought"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pweschmidt/pweschmidt.github.io"
+# footer:
 
 # Reading Files
 include:
