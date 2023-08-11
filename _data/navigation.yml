@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Partners"
+    url: /partners/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Questions"
