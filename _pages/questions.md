@@ -5,72 +5,66 @@ excerpt: ""
 permalink: /questions/
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/nuremberg-header.png"
-  teaser: assets/images/nuremberg-header.png
+  overlay_image: "/assets/images/parisbridge-header.png"
 ---
+In this section, I try to answer some of the questions you might have with respect to how
+I produce and distribute podcasts and podcast episodes. If your question is not being answered below, please contact me via [email](mailto:code4thought@proton.me).
 
-# Why podcasting
-For many years, podcasts have been an incredibly popular medium and millions of people listen to it every day. Although, there are some special interest podcasts, most of them are aimed at news, entertainment, sports and culture. However, podcasts are also useful for:
-- community building and strengthening
-- training and education
-- public engagement for research projects
+## What's involved to produce an episode and how long does it take?
+It takes on average 4 to 5 days to produce an episode end to end. This includes:
+- preparation, development and research
+- scripting, recording
+- editing, post-production and publishing
 
-# How can podcasting help in training
-A few years ago I started to learn French from scratch and did all the usual things, i.e. going to language classes. However, I struggled to make any progress with learning from the course material alone. Be it, that it is very limited, be it that it is sometimes just not interesting.
-A friend then suggested I should try listening to French podcasts. I may not understand much at first. But it helps getting the sound, rhythm and feel for the language. 
-It helped. A lot.
+## What's the final product?
+The final product will be a digital audio file in either MP3 or WAV file format. 
+I record and produce only audio data.
 
-And I wanted to see if this concept of using podcasts as additional material can be extended to technical and research subjects. Together with the Universe-HPC project we developed a mini-series of training sessions called "ByteSized RSE", where each session is accompanied by a podcast episode. The episode is adding additional material to the class, therefore giving students and listeners a different perspective on the subject.
+Platforms like YouTube have become more popular as an additional way to distribute podcasts. 
+On demand, I can create a digital video file in MP4 format. This would include the digital audio data and a still image (e.g. the logo of the podcast with title of episode - see the Code for Thought [YouTube](https://www.youtube.com/@code4thought) channel). 
 
-Augmenting classes with podcast episodes can be a great concept for training courses.
+I do not record video. 
 
-# How does the interviewing and recording work?
+## Where to publish it?
+This depends on your needs:
+- as digital audio files, they can be published anywhere on a website. This could be an option, if you wish to make episodes available internally for your organisation. 
+- if you have an existing podcast show, you can publish the episode directly there.  
+- if you want make it publicly available, but do **not** have a podcast show, yet, I could help setting one up
+- if the episode falls within the scope of the Code for Thought podcast, I will publish it there
+
+## How much does it cost?
+I have a fixed price for producing an episode end to end. 
+Please contact me via [email](mailto:code4thought@proton.me) to find out more. 
+
+If we agree, that it is necessary to travel and attend events (conference, workshop etc) to produce an episode, I would kindly ask to be reimbursed for the extra costs (travel, accomodation, registration fee).
+
+## Can I sponsor and support the Code for Thought podcast?
+Absolutely. A good way to sponsor this podcast is via [Patreon](https://www.patreon.com/codeforthought). This can be done on a regular (e.g. monthly) basis or a one-off payment.
+If you want to support the show in other ways, [email](mailto:code4thought@proton.me) me. 
+
+## What about tax and insurance?
+I am operating as a sole trader and no extra taxes need to be added.
+The work is insured with a Professional Indemnity insurance, and a copy of the insurance schedule is available on request.
+
+## How does interviewing recording online work?
 - I prefer to meet with podcast interviewees informally (online or face to face if requested) to
   - discuss the scope of our conversation
   - let people know what to expect on the day of the recording and how the whole process works
   - let them know what happens after the recording
-- For **online** recordings I use [Zencastr](https://zencastr.com)
+- For online recording, I use [Zencastr](https://zencastr.com)
   - **NOTE**: Zencastr only works with Google Chrome, Microsoft Edge or Brave browsers
-- For face to face recordings, I will provide a recording device/mixer. 
-- Recordings will be **audio only**.
-- Share the edited version of the episode with them before it will go live. Interviewees may request changes to the episode, within reason. However, they can decide whether the episode can go live or not.
-- the edited versions will be shared via a Dropbox link. There is no need to be a user for Dropbox. 
-- Episodes will be filed as
-  - WAV files for **audio** (previously MP3)
-  - MP4 files for **video** - where the video will only consist of a still cover image, since no video is being recorded.
+- During the recording, we will have video enabled (this helps the conversation). However, recordings will be **audio only**. 
+- For the recording, please use an external microphone, e.g. a headset with microphone. Using the built-in microphones of your laptop is a bad idea, as it will capture all of the environmental noises. 
+- Recorded episodes will be in WAV or MP3 format. I will typically not share the original, raw data with you, unless requested.
 
+## How do face to face interviews work?
+- As above, I'd like to meet interviewees informally before the recording to scope the discussion. This can be done online (or face to face).
+- If the interview is to take place at your workplace, it would help if you could have a room, which is quiet(er) to reduce the background noise during the recording. 
+- We would need to agree in advance if you require me to travel (beyond normal commuting distances) for the interview and extra costs (travel, accomodation) may incur. 
+- I will bring the audio equipment for the recording. 
 
-# How many people can I record at the same time?
+## How many people can I record at the same time?
 I did record panel discussions for the Code for Thought podcast. In practical terms, I can record up to 6 people (including myself) at one sitting. 
 - **face to face** recording mixer has space for 6 microphones
 - **online** in theory I can invite more people to an interview. However, with more than 5 interviewees it becomes difficult to go through a recording and keep it interesting and useful for listeners.
 
-# As an interviewee, what do I need?
-- **face to face**: in short - nothing. If the interview happens to be at your work location it would help if you could reserve a room, which is relatively quiet.
-- **online**: a headset with microphone, which is what most people have. When in Zencastr, make sure (in the Settings) that the input is set to the microphone and the output to your headset. 
-  - I would **NOT** recommend to use the microphone from your laptop and computer, as this will ultimately capture background noises and feedbacks. 
-
-# How does podcasting work
-A crucial element is a protocol called [RSS](https://www.rssboard.org), which stands for Real Simple Syndication. It is a form of notification service, allowing web-sites to "register" with a content provider. Each time the provider updates their website, the "clients" get notified with an **RSS feed** containing some essential metadata. 
-
-In short there are 2 parts:
-- the content provider, i.e. a web-site hosting your content (audio MP3, WAV files)
-- the podcast directory, where your podcast can be registered to make it available and promote to the public. The most popular ones are Apple Podcast, Spotify, Google Podcast, Podcast Addict. It usually pays to register your podcast with multiple directories
-
-You can create your podcast hosting website yourself, e.g. with GitHub or GitLab pages. However, there are a number of excellent podcasting platforms available that take a lot of the work away and let you get valuable features like
-- scheduling of episode publishing
-- comprehensive analytics
-- registering with different podcast directories
-
-There are a number of solutions available, e.g. Acast, Podbean etc. 
-I am using [Buzzsprout](https://www.buzzsprout.com/)
-
-# How much effort is involved
-An end to end production of a podcast episode usually breaks down like this:
-- preparation and subject research. This includes 
-  - looking for and arranging for invites with potential interview partners
-  - developing a story/narrative for what is being presented
-- recording of the episode(s). This depends on how the episode is structured. If it is an interview based episode, one recording (the interview) will suffice. If it is a report-style episode, several recordings may be needed.
-- editing. No matter how good a public speaker you and your interview partners believe to be, you will need to edit your audio material. 
-- post-production. I usually treat this separately from editing. Post-production includes putting all the edited versions of your material together into a coherent episode. This also includes the metadata associated with the episode (episode notes) and any announcements you make on "social" media. 
-- publishing. depending on your Podcast host platform this can be as simple as clicking the publish button. You can then use the prepared announcements and share them on your media platforms
