@@ -15,3 +15,4 @@ For the [Code for Thought](https://codeforthought.buzzsprout.com) podcast, in pa
 - The [Society for Research Software Engineering](https://society-rse.org) in the UK
 - The [Forschungszentrum Jülich](https://www.fz-juelich.de/de) in Germany
 - The [German RSE Association](https://de-rse.org/de/index.html) "deRSE" in Germany
+- The [Open Science Freelancers](https://open-science-freelancers.gitlab.io) 
