@@ -9,7 +9,7 @@ header:
 Podcasts are a great way to bring your important research work to the attention of a wider public.
 Sadly, we live in times, where research work is at times undervalued, rejected or simply ignored (see discussions around climate change and vaccines). And I believe that explaining what we do and why has become more important than ever.
 
-Of course, there are popular science podcasts out there. However, with such a huge reseach output every year, the big stations can only skim the surface and tend to focus on widely known and popular researchers and research programs. 
+Of course, there are popular science podcasts out there. However, with such a huge research output every year, the big stations can only skim the surface and tend to focus on widely known and popular researchers and research programs. 
 
 At the same time, I think it is important to give all researchers an opportunity to share their work with the wider public. 
 
