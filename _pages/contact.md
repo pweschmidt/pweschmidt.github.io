@@ -16,7 +16,6 @@ title: "Contact"
 | LinkedIn | [pweschmidt](https://www.linkedin.com/in/pweschmidt/) |
 | Mastodon | @code4thought@fosstodon.org | 
 | Twitter | [@code_4_thought](https://twitter.com/code_4_thought)  | 
-| Instagram | [@code_4_thought](https://www.instagram.com/code_4_thought/) |
 | | |
 | GitHub and GitLab | @pweschmidt | 
 | Code for Thought host | [Code for Thought Host](https://codeforthought.buzzsprout.com) |
