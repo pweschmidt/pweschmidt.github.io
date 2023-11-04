@@ -15,7 +15,7 @@ header:
 - Launched **August 2023**
   - ![RegisterGeknister](/assets/images/RegisterGeknister.png) - **in German** - The [podcast](https://registergeknister.buzzsprout.com) from linguists of the special research area [1412](https://sfb1412.hu-berlin.de/de/) at the Humboldt-Universität in Berlin, Germany. 
   
-- Launched **October 2022**
+- Launched **October 2022** Season 2 launched **November 2023**
   - ![ByteSizedRSE](/assets/images/universe-hpc.png) - **in English** - ByteSized RSE is a set of short training sessions run by the [Universe HPC](http://www.universe-hpc.ac.uk/events/byte-sized-rse/) program. Each training session has an associated podcast episode. The episodes are published as part of the Code for Thought show.
 
 - Launched **January 2021**
