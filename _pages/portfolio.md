@@ -9,6 +9,9 @@ header:
   teaser: assets/images/radio-header.png
 ---
 
+- Launched **October 2023**
+  - ![UCL Research Software Engineering with Python](/assets/images/comp0233_podcast.jpg) - **in English** - A [companion podcast](https://ucl-comp0233-23-24.github.io/podcast/index.html) for the course 'Research Software Engineering with Python at the University College London (UCL), UK. 
+
 - Launched **August 2023**
   - ![RegisterGeknister](/assets/images/RegisterGeknister.png) - **in German** - The [podcast](https://registergeknister.buzzsprout.com) from linguists of the special research area [1412](https://sfb1412.hu-berlin.de/de/) at the Humboldt-Universität in Berlin, Germany. 
   
