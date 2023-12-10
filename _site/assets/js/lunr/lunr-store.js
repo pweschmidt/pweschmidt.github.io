@@ -6,7 +6,7 @@ var store = [{
         "teaser": "/assets/images/paris-header.png"
       },{
         "title": "Podcast for research",
-        "excerpt":"Podcasts are a great way to bring your important research work to the attention of a wider public. Sadly, we live in times, where research work is at times undervalued, rejected or simply ignored (see discussions around climate change and vaccines). And I believe that explaining what we do and...","categories": [],
+        "excerpt":"Podcasts are a great way to bring your important research work to the attention of a wider public. Sadly, we live in times, where research work is at times undervalued, rejected or simply ignored (see discussions around climate change and vaccines). And I believe that explaining and sharing what we...","categories": [],
         "tags": [],
         "url": "/offerings/PublicEngagement/",
         "teaser": "/assets/images/paris-header.png"
