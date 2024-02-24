@@ -9,6 +9,10 @@ header:
   teaser: assets/images/radio-header.png
 ---
 
+- Listed in German Science Podcast 'Wisspod' and on now on YouTube Podcast **February 2024**
+  - ![Wisspod](/assets/images/logo-wisspod-dunkel.png) - **in German** - [Wisspod](https://wissenschaftspodcasts.de) is a listing for science podcasts in Germany. Code for Thought is listed in the category [Informatik](https://wissenschaftspodcasts.de/podcasts/code-for-thought/)
+  - Code for Thought is also listed as a podcast with all episodes on [YouTube and YouTube Music](https://www.youtube.com/playlist?list=PL-YIfuwj8R2jB6YR8i0dOOM3R95j1ISE_) You can subscribe there
+
 - Launched **October 2023**
   - ![UCL](/assets/images/comp0233_podcast_small.jpg) - **in English** - A [companion podcast](https://ucl-comp0233-23-24.github.io/podcast/index.html) for the course 'Research Software Engineering with Python at the University College London (UCL), UK. 
 

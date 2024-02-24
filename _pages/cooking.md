@@ -16,8 +16,10 @@ Ahhhhh - the main dish!
 ## 2023
 
 - [Gnudis]({%link _pages/plats/gnudis.md %}) Home made Gnudis with Spinach
-- [Coq au Vin]({%link _pages/plats/coqauvin.md %}) Coq au Vin
-- [Beurre Manié]({%link _pages/plats/beurremanie.md %}) A butter/flour paste used to thicken sauces
+  
+- [CoqAuVin]({%link _pages/plats/coqauvain.md %}) Coq au Vin
+
+- [BeurreManié]({%link _pages/plats/beurremanie.md %}) A butter/flour paste used to thicken sauces
 
 # Et Pour Finir
 Who's up for a pudding?
