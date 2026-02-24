@@ -15,4 +15,4 @@ The podcast episodes are currently published under the umbrella of the 'Code for
 
 Podcasting cannot replace teaching courses and classes. But they can be a valuable, additional resource for students as well as provide a good background source for people who were not able to attend.
 
-If you like to find out more how podcasting can help with your training programs contact me via [email](mailto:code4thought@proton.me).
+If you like to find out more how podcasting can help with your training programs contact me via [email](mailto:peter@code4thought.org).

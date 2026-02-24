@@ -9,6 +9,10 @@ header:
   teaser: assets/images/radio-header.png
 ---
 
+- (Re-)launched in **January 2026**: we're going to start a new ByteSized programme as part of "Code for Thought". Together with Imperial College, King's College London and University College London the programme will consist of 10 online courses and companion podcast episodes for 2026 and another set of 10 in 2027. This programme is funded by the [STEP-UP](https://step-up.ac.uk/events/bytesized-drtp/) project. 
+
+- Launched a training podcast with UCL **in January 2025**. This contains the companion podcast episodes for two UCL courses: Research Software Engineering with Python and the course on C++ and Research Software Engineering. You can listen to the podcast episodes on my YouTube channel (as below), using the [weblink](https://uclforcodeinresearch.buzzsprout.com) or on your podcast app: "UCL for Code in Research"
+
 - Listed in German Science Podcast 'Wisspod' and on now on YouTube Podcast **February 2024**
   - ![Wisspod](/assets/images/logo-wisspod-dunkel.png) - **in German** - [Wisspod](https://wissenschaftspodcasts.de) is a listing for science podcasts in Germany. Code for Thought is listed in the category [Informatik](https://wissenschaftspodcasts.de/podcasts/code-for-thought/)
   - Code for Thought is also listed as a podcast with all episodes on [YouTube and YouTube Music](https://www.youtube.com/playlist?list=PL-YIfuwj8R2jB6YR8i0dOOM3R95j1ISE_) You can subscribe there

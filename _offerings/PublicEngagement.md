@@ -14,7 +14,7 @@ It is also a fundamental principle of **Open Science**. Together with other free
 With that in mind, I am thrilled to work with the [linguistics team ](https://sfb1412.hu-berlin.de/de/) at the Humboldt-Universität in Berlin, Germany, since June 2023. The team have a list of exciting research on a wide range of themes around the use and effect of language in our daily lives. Together, we started a podcast (in **German**) called [Register Geknister](https://registergeknister.buzzsprout.com), which is available on all major podcast directories since August 2023.
 
 
-If you like the idea of sharing your work using podcasts, please, do get in touch via [email](mailto:code4thought@proton.me).
+If you like the idea of sharing your work using podcasts, please, do get in touch via [email](mailto:peter@code4thought.org).
 
 If you are looking for trainers and activists in **Open Science** take a look at the [freelancers](https://open-science-freelancers.gitlab.io) site. 
 

@@ -10,12 +10,10 @@ title: "Contact"
 
 
 
-| Email | [code4thought@proton.me](mailto:code4thought@proton.me){: .btn .btn--primary} |
+| Email | [peter@code4thought.org](mailto:peter@code4thought.org){: .btn .btn--primary} |
 | | |
-| Patreon | [codeforthought](https://www.patreon.com/codeforthought) |
-| LinkedIn | [pweschmidt](https://www.linkedin.com/in/pweschmidt/) |
-| Mastodon | @code4thought@fosstodon.org | 
-| Twitter | [@code_4_thought](https://twitter.com/code_4_thought)  | 
+| LinkedIn | [pweschmidt](https://www.linkedin.com/in/pweschmidt/) | 
+| BlueSky | [@code4thought.bsky.social](https://bsky.app/profile/code4thought.bsky.social)  | 
 | | |
 | GitHub and GitLab | @pweschmidt | 
 | Code for Thought host | [Code for Thought Host](https://codeforthought.buzzsprout.com) |

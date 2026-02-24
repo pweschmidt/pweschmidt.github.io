@@ -8,7 +8,7 @@ header:
   overlay_image: "/assets/images/parisbridge-header.png"
 ---
 In this section, I try to answer some of the questions you might have with respect to how
-I produce and distribute podcasts and podcast episodes. If your question is not being answered below, please contact me via [email](mailto:code4thought@proton.me).
+I produce and distribute podcasts and podcast episodes. If your question is not being answered below, please contact me via [email](mailto:peter@code4thought.org).
 
 ## What's involved to produce an episode and how long does it take?
 It takes on average 4 to 5 days to produce an episode end to end. This includes:
@@ -34,13 +34,12 @@ This depends on your needs:
 
 ## How much does it cost?
 I have a fixed price for producing an episode end to end. 
-Please contact me via [email](mailto:code4thought@proton.me) to find out more. 
+Please contact me via [email](peter@code4thought.org) to find out more. 
 
 If we agree, that it is necessary to travel and attend events (conference, workshop etc) to produce an episode, I would kindly ask to be reimbursed for the extra costs (travel, accomodation, registration fee).
 
 ## Can I sponsor and support the Code for Thought podcast?
-Absolutely. A good way to sponsor this podcast is via [Patreon](https://www.patreon.com/codeforthought). This can be done on a regular (e.g. monthly) basis or a one-off payment.
-If you want to support the show in other ways, [email](mailto:code4thought@proton.me) me. 
+If you want to support the show [email](peter@code4thought.org) me. 
 
 ## What about tax and insurance?
 I am operating as a sole trader and no extra taxes need to be added.

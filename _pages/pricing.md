@@ -24,7 +24,7 @@ Price per episode:
 - £/€ 1,100.00 
 - $ 1,300.00
 
-Prices can be negotiated. Please, [email me](mailto:code4thought@proton.me).
+Prices can be negotiated. Please, [email me](mailto:peter@code4thought.org).
 
 # What is the final product?
 - A podcast episode will be in form of a digital audio file. By default, the WAV file format will be chosen. If requested, MP3 files can be produced as well. 
